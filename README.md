@@ -42,7 +42,7 @@
 
 ## Conclusion
 <div>
-    <p>From this chart I would conclude that the United States of America is the most reliable country in regards to space missions because it has a high percentage of success missions and it is the country that launched most space missions according to the analyzed data set.</p>
+    <p>From this chart I would conclude that the <b>United States of America is the most reliable country in regards to space missions</b> because it has a <b>high percentage of success missions</b> and it is the country that launched <b>the most space missions</b> according to the analyzed data set.</p>
 </div>
 
 ## Disclaimer
